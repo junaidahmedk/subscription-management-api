@@ -1,4 +1,4 @@
-# 🚀 Subscription Management API
+<h1 align="center"> Subscription Management API </h1>
 
 A **production-ready backend API** for managing user subscriptions and sending automated renewal reminders.
 
