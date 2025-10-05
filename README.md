@@ -9,17 +9,17 @@ Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this A
 
 ## 📖 Outline
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [🛠️ Setup and Installation](#🛠️-setup-and-installation)
+- [✨ Features](#-features)
+- [🧰 Tech Stack](#-tech-stack)
+- [🛠️ Setup and Installation](#%EF%B8%8F-setup-and-installation)
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
-- [🔑 API Endpoints](#api-endpoints)
+- [🔑 API Endpoints](#-api-endpoints)
   - [User Authentication](#user-authentication)
   - [Subscription Management](#subscription-management)
   - [Job Queue / Background Processing](#job-queue--background-processing)
-- [🧠 Future Enhancements](#future-enhancements)
-- [📝 License](#license)
+- [🧠 Future Enhancements](#-future-enhancements)
+- [📝 License](#-license)
 
 ---
 
