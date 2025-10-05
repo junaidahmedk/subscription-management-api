@@ -1,4 +1,4 @@
-# 🚀 Subscription Tracker API
+# 🚀 Subscription Management API
 
 A **production-ready backend API** for managing user subscriptions and sending automated renewal reminders.
 
