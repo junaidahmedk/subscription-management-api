@@ -91,7 +91,7 @@ You need the following installed on your machine:
     REDIS_HOST=localhost
     REDIS_PORT=6379
 
-    # Email Service (Nodemailer - Example using Mailtrap/SendGrid)
+    # Email Service (Nodemailer - Use SMTP client Brevo/Mailtrap)
     EMAIL_HOST=smtp.example.com
     EMAIL_PORT=587
     EMAIL_USER=your_email_user
