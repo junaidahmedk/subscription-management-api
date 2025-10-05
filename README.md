@@ -4,7 +4,7 @@ A **production-ready backend API** for managing user subscriptions and sending a
 
 Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this API provides a scalable, secure solution for handling authentication, core subscription management, and automated, queue-based email workflows.
 
-<hr>
+
 
 
 ## 📖 Outline
@@ -21,7 +21,7 @@ Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this A
 - [🧠 Future Enhancements](#-future-enhancements)
 - [📝 License](#-license)
 
----
+
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@ Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this A
 - 🗄️ **MongoDB Integration** – Uses **Mongoose** for clean, structured data models for users and subscriptions.
 - ⚙️ **Production Config** – Modular structure, environment-based configuration using `dotenv` for development and production environments, ensuring a clean and organized codebase.
 
-<hr>
+
 
 ## 🧰 Tech Stack
 
@@ -46,7 +46,7 @@ Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this A
 | **Security** | **Arcjet** | Bot protection and intelligent rate limiting middleware. |
 | **Utilities** | **Day.js**, **dotenv** | Lightweight date library and environment variable management. |
 
-<hr>
+
 
 ## 🛠️ Setup and Installation
 
@@ -113,7 +113,7 @@ You need the following installed on your machine:
 
 The API will be running at `http://localhost:[PORT]` (e.g., `http://localhost:3000`).
 
-<hr>
+
 
 ## 🔑 API Endpoints
 
@@ -148,7 +148,7 @@ The job processing logic is handled internally:
 The API automatically schedules and sends email reminders before subscription renewal using BullMQ jobs.
 Each reminder is personalized with user details, subscription plan, and remaining days before renewal.
 
-<hr>
+
 
 ## 🧠 Future Enhancements
 
