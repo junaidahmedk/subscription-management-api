@@ -9,9 +9,9 @@ Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this A
 
 ## 📖 Outline
 
-- [✨ Features](#features)
-- [🧰 Tech Stack](#tech-stack)
-- [🛠️ Setup and Installation](#setup-and-installation)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [🛠️ Setup and Installation](#🛠️-setup-and-installation)
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
 - [🔑 API Endpoints](#api-endpoints)
