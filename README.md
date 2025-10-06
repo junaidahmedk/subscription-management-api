@@ -1,5 +1,10 @@
 <h1 align="center"> Subscription Management API </h1>
 
+<p align="center">
+  <img src="./assets/cover-image.png" alt="Subscription Management API Cover" width="800">
+</p>
+
+
 A **production-ready backend API** for managing user subscriptions and sending automated renewal reminders.
 
 Built with **Node.js**, **Express**, **MongoDB**, and **Redis (BullMQ)**, this API provides a scalable, secure solution for handling authentication, core subscription management, and automated, queue-based email workflows.
